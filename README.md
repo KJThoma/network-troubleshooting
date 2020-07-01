@@ -1,6 +1,6 @@
 # Network Troubleshooting
 
-Welcome to my network-troubleshooting repo. I'm planning on making this a space for scripts to simplify or automate some network troubleshooting steps I go through regularly.
+Welcome to my network-troubleshooting repo. This a space for scripts to simplify or automate some network troubleshooting steps I go through regularly.
 
 # ping.py
 This is my first program is Python! It's very simple and prints a clean output of results. Current commit has it acting on IPv4 addresses in a hosts.txt file, seperated by new lines.
