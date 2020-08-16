@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Ping.py This script will check availability of a list of hosts in the hosts.txt file.
+# Ping.py This script will ping a list of hosts in the hosts.txt file.
 
 # Module to run the ping command
 import subprocess
@@ -29,6 +29,3 @@ for ip in ip_list:
 
 # Adding some ---- for nicer formatting
 print('-' * 30)
-
-# Close file
-hosts_file.close()
